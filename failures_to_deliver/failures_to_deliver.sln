@@ -1,0 +1,22 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.28307.1267
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{159641D6-6404-4A2A-AE62-294DE0FE8301}") = "failures_to_deliver", "failures_to_deliver\failures_to_deliver.dtproj", "{CB055DFD-3B70-4275-A4EA-A300081731F0}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Development|Default = Development|Default
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{CB055DFD-3B70-4275-A4EA-A300081731F0}.Development|Default.ActiveCfg = Development
+		{CB055DFD-3B70-4275-A4EA-A300081731F0}.Development|Default.Build.0 = Development
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {45673358-AA1A-4C92-A4E0-69DB2E6FA85A}
+	EndGlobalSection
+EndGlobal
